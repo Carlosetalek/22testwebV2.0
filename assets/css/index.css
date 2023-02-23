@@ -6210,6 +6210,10 @@ padding-left: 2%;
 }
 
 @media (min-width: 320px) and  (max-width: 580px){
+	#section-lp .bloque-2 h2{
+		font-size: 24px;
+		text-align: center;
+	}
 	.boton-menu{
 		width: 156px;
 		margin-left: 15px;
@@ -7230,6 +7234,10 @@ display: none;
 }
 
 @media (min-width: 581px) and  (max-width: 767px){
+	#section-lp .bloque-2 h2{
+		font-size: 24px;
+		text-align: center;
+	}
 	.boton-menu{
 		width: 156px;
 		margin-left: 15px;
