@@ -2,7 +2,6 @@
 # Replace 'http://www.bosquereal.com.mx' with your domain name
 # (as it appears on your SSL certificate)
 
-
 RewriteEngine On
 # RewriteCond %{HTTP_HOST} ^bosquereal.com.mx/app/ [NC]
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$

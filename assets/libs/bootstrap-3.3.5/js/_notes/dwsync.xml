@@ -6,4 +6,7 @@
 <file name="bootstrap.js" server="ftp.bosquereal.com.mx" local="133111864420000000" remote="133166372400000000" Dst="1" />
 <file name="bootstrap.min.js" server="ftp.bosquereal.com.mx" local="133111864420000000" remote="133166372400000000" Dst="1" />
 <file name="npm.js" server="ftp.bosquereal.com.mx" local="133111864420000000" remote="133166372400000000" Dst="1" />
+<file name="bootstrap.js" server="154.38.166.48" local="133215005013824471" remote="133216509600000000" Dst="1" />
+<file name="bootstrap.min.js" server="154.38.166.48" local="133215005013834445" remote="133216509600000000" Dst="1" />
+<file name="npm.js" server="154.38.166.48" local="133215005013844420" remote="133216509600000000" Dst="1" />
 </dwsync>
